@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: fe
+Version: 0.1.dev0
+Summary: Python Feature engineering (synthesis) for Machine learning
+Home-page: https://github.com/musyoka-morris/fe
+Author: Musyoka Morris
+Author-email: musyokamorris@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires: numpy
+Requires: pandas
+
+UNKNOWN
+
+
